@@ -1,0 +1,13 @@
+{
+  "name": "github-actions-recipes-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dummy dependencies used to make install time measurable in the CI cache demo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "lodash": "^4.17.21",
+    "axios": "^1.7.2",
+    "moment": "^2.30.1"
+  }
+}
